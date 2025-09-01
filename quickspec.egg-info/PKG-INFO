@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: quickspec
+Version: 0.1.0
+Summary: 快速顯示電腦硬體規格的 CLI 工具
+Author: HenryLok0
+Requires-Python: >=3.7
+License-File: LICENSE
+Requires-Dist: psutil
+Requires-Dist: py-cpuinfo
+Dynamic: author
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

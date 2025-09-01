@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+quickspec/__init__.py
+quickspec/main.py
+quickspec.egg-info/PKG-INFO
+quickspec.egg-info/SOURCES.txt
+quickspec.egg-info/dependency_links.txt
+quickspec.egg-info/entry_points.txt
+quickspec.egg-info/requires.txt
+quickspec.egg-info/top_level.txt

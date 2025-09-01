@@ -1,0 +1,2 @@
+[console_scripts]
+quickspec = quickspec.main:print_spec
